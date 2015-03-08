@@ -1,6 +1,6 @@
 # hexo-browsersync
 
-[BrowserSync] plugin for [Hexo].
+[BrowserSync] plugin for [Hexo] 3.x
 
 ## Installation
 
